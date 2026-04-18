@@ -14,8 +14,13 @@ A student passionate about technology, programming, and building real-world proj
 - OOP (Object-Oriented Programming)
 - File Handling
 
+#### 📂 Projects
+
+### 🎓 Student Manager System
+- Add / View / Delete students
+- Uses OOP and file handling
+
 ## 📂 Projects (Coming Soon)
-- Student Manager System
 - File Organizer Tool
 - AI Chatbot
 - Jarvis AI Assistant
