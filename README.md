@@ -14,7 +14,7 @@ A student passionate about technology, programming, and building real-world proj
 - OOP (Object-Oriented Programming)
 - File Handling
 
-#### 📂 Projects
+## 📂 Projects
 
 ### 🎓 Student Manager System
 - Add / View / Delete students
