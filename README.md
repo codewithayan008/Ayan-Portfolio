@@ -92,7 +92,7 @@ LinkedIn: Coming Soon
 
 Email: Coming Soon
 
-GitHub: https://github.com/14012008
+GitHub: https://github.com/codewithayan008
 
 ---
 
